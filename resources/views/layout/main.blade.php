@@ -5,18 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>AdminLTE 3 | Blank Page</title>
 
-  <!-- Google Font: Source Sans Pro -->
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700&display=fallback">
-  <!-- Font Awesome -->
-  <link rel="stylesheet" href="https://rdp-mdlc.herokuapp.com/assets/plugins/fontawesome-free/css/all.min.css">
-  <!-- Theme style -->
-  <link rel="stylesheet" href="https://rdp-mdlc.herokuapp.com/assets/dist/css/adminlte.min.css">
-  <!-- My style -->
-  <link rel="stylesheet" type="text/css" href="https://rdp-mdlc.herokuapp.com/css/my.css">
-  {{-- Datatables --}}
-  <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/dt/dt-1.10.25/datatables.min.css"/>
-  {{-- TinyMCE --}}
-  <script src="https://cdn.tiny.cloud/1/osyucyeiesp79wio1lthlgscw6mk6vmtpa87nox3puxtfodb/tinymce/5/tinymce.min.js" referrerpolicy="origin"></script>
+
 
 </head>
 <body class="hold-transition sidebar-mini">
