@@ -240,6 +240,9 @@
             }
         }
 
+        
+
+
         function edit(id, name) {
 
           if($('#edit').is(":visible") && id==id_awal){
